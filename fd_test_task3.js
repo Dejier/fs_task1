@@ -1,5 +1,5 @@
 'use strict';
-
+// сложность линейная O(N)
 module.exports = function (red, blue) {
 	let curRedBottle  = 0,
 		curBlueBottle = 0,
